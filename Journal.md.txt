@@ -1,3 +1,14 @@
+...
+------------------------------------------------------------------------
+#  
+
+------------------------------------------------------------------------
+...
+
+
+
+------------------------------------------------------------------------
+
 # A Journal.
 
 note, I will because I have to, I must repeat the following:
@@ -8,7 +19,29 @@ one might ask why make it public if it's actually just something for myself?
 I believe in open source, even if it's something I don't explicitly make for others ^_^ 🌹
 so, grammar errors and other wrongs like ( `i` -> `I` and `dont` -> `don't` ), in-consistent-ies (using both `i` and `I`), and so on, will be present.
 
----
-
 Why I ignore all of this(grammar errors, etc), is for one simple reason:
 I want to just focus on what matters :)
+
+------------------------------------------------------------------------
+
+lazia is a Algorithm for Go, And Chess. It's in it's early days now.
+The goal is to have to be inspired from alpha*zero/go/etc.
+Problems, and solutions to these problems will be posted as I go along. Also, this is for myself, but I made it public Since, 
+people maybe like to read about this but, as this is for myself, it wont be so readable for others.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
