@@ -5,12 +5,14 @@
 ### Quick Links
 
 
-- https://lichess.org/study
 - https://lichess.org/
+- https://lichess.org/study
 - https://lichess.org/practice
 - https://lichess.org/training/themes
 - https://lichess.org/training/openings
+
 - https://database.lichess.org/#evals
+
 - https://stopwatchtimers.com/timer/1-minute-timer/
 - https://stopwatchtimers.com/stopwatch/
 
